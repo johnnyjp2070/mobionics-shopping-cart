@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75b5141d9a1ab14a6c727e0f11296491",
+    "revision": "55f98261cd6f7d08a2ce3ad1e28d69cf",
     "url": "/mobionics-shopping-cart/index.html"
   },
   {
