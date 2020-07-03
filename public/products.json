@@ -1,0 +1,122 @@
+[
+  {
+    "id": 10001,
+    "brandName": "Aashirvaad",
+    "productName": "Wheat Flour",
+    "quantity": "1 Kg",
+    "mrp": "100",
+    "price": "99",
+    "offer": "Flat 10% Offer",
+    "imgUrl": "images/aashirvaad-atta.jpg"
+  },
+  {
+    "id": 10002,
+    "brandName": "Milkfood",
+    "productName": "Ghee",
+    "quantity": "1L",
+    "mrp": "600",
+    "price": "400",
+    "offer": "Flat 50% Offer",
+    "imgUrl": "images/milkfood_ghee.jpg"
+  },
+  {
+    "id": 10003,
+    "brandName": "Dabur",
+    "productName": "Premium Honey",
+    "quantity": "1L",
+    "mrp": "1200",
+    "price": "1199",
+    "offer": "Flat 5% Offer",
+    "imgUrl": "images/dabur-honey.jpg"
+  },
+  {
+    "id": 10004,
+    "brandName": "Himalaya",
+    "productName": "Hair care Shampoo",
+    "quantity": "200 Ml",
+    "mrp": "100",
+    "price": "90",
+    "offer": "Flat 15% Offer",
+    "imgUrl": "images/himalaya-shampoo.jpg"
+  },
+  {
+    "id": 10005,
+    "brandName": "Amul",
+    "productName": "CHeese",
+    "quantity": "200 Gms",
+    "mrp": "50",
+    "price": "45",
+    "offer": "Flat 5% Offer",
+    "imgUrl": "images/amul-cheese.jpg"
+  },
+  {
+    "id": 10006,
+    "brandName": "Brittannia",
+    "productName": "Good Day Biscuits",
+    "quantity": "200gms",
+    "mrp": "40",
+    "price": "35",
+    "offer": "Flat 10% Offer",
+    "imgUrl": "images/brittannia-goodday.jpg"
+  },
+  {
+    "id": 10007,
+    "brandName": "Brittannia",
+    "productName": "Mariegold Biscuits",
+    "quantity": "200 Gms",
+    "mrp": "50",
+    "price": "45",
+    "offer": "Flat 30% Offer",
+    "imgUrl": "images/brittannia-mariegold.jpg"
+  },
+  {
+    "id": 10008,
+    "brandName": "Goldwinner",
+    "productName": "Sunflower Oil",
+    "quantity": "1 L",
+    "mrp": "150",
+    "price": "130",
+    "offer": "Flat 10% Offer",
+    "imgUrl": "images/goldwinner-sunfloweroil.jpg"
+  },
+  {
+    "id": 10009,
+    "brandName": "Kissan",
+    "productName": "Mixed Fruit Jam",
+    "quantity": "500Gm",
+    "mrp": "120",
+    "price": "110",
+    "offer": "Flat 5% Offer",
+    "imgUrl": "images/kissan-jam.jpg"
+  },
+  {
+    "id": 10010,
+    "brandName": "Nescafe",
+    "productName": "Coffee Powder",
+    "quantity": "200 Gm",
+    "mrp": "200",
+    "price": "190",
+    "offer": "Flat 5% Offer",
+    "imgUrl": "images/nescafe-coffeepowder.jpg"
+  },
+  {
+    "id": 10011,
+    "brandName": "Tide",
+    "productName": "Washing Powder",
+    "quantity": "500 Gm",
+    "mrp": "250",
+    "price": "230",
+    "offer": "Flat 10% Offer",
+    "imgUrl": "images/tide-washingpowder.jpg"
+  },
+  {
+    "id": 10012,
+    "brandName": "Patanjali",
+    "productName": "Chyawanprash",
+    "quantity": "200 Gms",
+    "mrp": "150",
+    "price": "140",
+    "offer": "Flat 15% Offer",
+    "imgUrl": "images/patanjali-chyawanprash.jpg"
+  }
+]

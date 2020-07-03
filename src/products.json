@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "brandName": "Ashirwaad",
+    "productName": "Wheat Flour",
+    "quantity": "1 Kg",
+    "mrp": "100",
+    "price": "99",
+    "offer": "Flat 10% Offer",
+    "imgUrl": "images/aashirvaad-atta.jpg"
+  },
+  {
+    "id": 2,
+    "brandName": "Milkfood",
+    "productName": "Ghee",
+    "quantity": "1L",
+    "mrp": "600",
+    "price": "400",
+    "offer": "Flat 50% Offer",
+    "imgUrl": "images/milkfood_ghee.jpg"
+  },
+  {
+    "id": 3,
+    "brandName": "Dabur",
+    "productName": "Premium Honey",
+    "quantity": "1L",
+    "mrp": "1200",
+    "price": "1199",
+    "offer": "Flat 5% Offer",
+    "imgUrl": "images/dabur-honey.jpg"
+  },
+  {
+    "id": 4,
+    "brandName": "Himalaya",
+    "productName": "Hair care Shampoo",
+    "quantity": "200 Ml",
+    "mrp": "100",
+    "price": "99.5",
+    "offer": "Flat 15% Offer",
+    "imgUrl": "images/himalaya-shampoo.jpg"
+  }
+]
