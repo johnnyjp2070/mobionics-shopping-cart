@@ -11,7 +11,9 @@ export default class ProductList extends Component {
   };
 
   componentDidMount() {
-    fetch(`../products.json`)
+    fetch(
+      `https://johnnyjp2070.github.io/mobionics-shopping-cart/products.json`
+    )
       .then((response) => response.json())
       .then((data) => {
         data.map((item) => (item.numberOfItems = 0));
