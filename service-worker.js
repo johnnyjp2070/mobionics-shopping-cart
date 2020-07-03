@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mobionics-shopping-cart/precache-manifest.c75cd621635df1eab9a0f203ff2a74db.js"
+  "/mobionics-shopping-cart/precache-manifest.fe39f2bba15b552f470b178a8b5200c9.js"
 );
 
 self.addEventListener('message', (event) => {
